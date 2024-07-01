@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @noxe869
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Web Developement
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @noxe869
+- 👋 Hi
 
 <!---
 noxe869/noxe869 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
